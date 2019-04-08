@@ -5,12 +5,6 @@ VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VB_SQLITE", "VB_SQLITE\VB_SQLITE.vbproj", "{C3A9EF51-31AF-4B09-87E5-D4A3839188A1}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "referrence", "referrence", "{8F88964E-3C2F-43B9-A789-C13E6583F056}"
-	ProjectSection(SolutionItems) = preProject
-		VB_SQLITE\bin\Debug\swimmer.db = VB_SQLITE\bin\Debug\swimmer.db
-		VB_SQLITE\bin\Debug\System.Data.SQLite.dll = VB_SQLITE\bin\Debug\System.Data.SQLite.dll
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
