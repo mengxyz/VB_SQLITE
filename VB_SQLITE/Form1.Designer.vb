@@ -57,7 +57,7 @@ Partial Class Form1
         '
         Me.label6.AutoSize = True
         Me.label6.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.label6.Location = New System.Drawing.Point(142, 255)
+        Me.label6.Location = New System.Drawing.Point(143, 255)
         Me.label6.Name = "label6"
         Me.label6.Size = New System.Drawing.Size(48, 20)
         Me.label6.TabIndex = 39
@@ -67,7 +67,7 @@ Partial Class Form1
         '
         Me.label5.AutoSize = True
         Me.label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.label5.Location = New System.Drawing.Point(142, 223)
+        Me.label5.Location = New System.Drawing.Point(143, 223)
         Me.label5.Name = "label5"
         Me.label5.Size = New System.Drawing.Size(43, 20)
         Me.label5.TabIndex = 38
@@ -77,7 +77,7 @@ Partial Class Form1
         '
         Me.lbl.AutoSize = True
         Me.lbl.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lbl.Location = New System.Drawing.Point(142, 180)
+        Me.lbl.Location = New System.Drawing.Point(143, 180)
         Me.lbl.Name = "lbl"
         Me.lbl.Size = New System.Drawing.Size(52, 20)
         Me.lbl.TabIndex = 37
@@ -87,7 +87,7 @@ Partial Class Form1
         '
         Me.label4.AutoSize = True
         Me.label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.label4.Location = New System.Drawing.Point(142, 146)
+        Me.label4.Location = New System.Drawing.Point(143, 146)
         Me.label4.Name = "label4"
         Me.label4.Size = New System.Drawing.Size(63, 20)
         Me.label4.TabIndex = 36
@@ -97,7 +97,7 @@ Partial Class Form1
         '
         Me.label3.AutoSize = True
         Me.label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.label3.Location = New System.Drawing.Point(142, 112)
+        Me.label3.Location = New System.Drawing.Point(143, 112)
         Me.label3.Name = "label3"
         Me.label3.Size = New System.Drawing.Size(56, 20)
         Me.label3.TabIndex = 35
@@ -107,7 +107,7 @@ Partial Class Form1
         '
         Me.label2.AutoSize = True
         Me.label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.label2.Location = New System.Drawing.Point(142, 78)
+        Me.label2.Location = New System.Drawing.Point(143, 78)
         Me.label2.Name = "label2"
         Me.label2.Size = New System.Drawing.Size(72, 20)
         Me.label2.TabIndex = 34
@@ -117,7 +117,7 @@ Partial Class Form1
         '
         Me.label1.AutoSize = True
         Me.label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.label1.Location = New System.Drawing.Point(140, 44)
+        Me.label1.Location = New System.Drawing.Point(141, 44)
         Me.label1.Name = "label1"
         Me.label1.Size = New System.Drawing.Size(74, 20)
         Me.label1.TabIndex = 33
@@ -127,7 +127,7 @@ Partial Class Form1
         '
         Me.cmbStage.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.cmbStage.FormattingEnabled = True
-        Me.cmbStage.Location = New System.Drawing.Point(242, 180)
+        Me.cmbStage.Location = New System.Drawing.Point(243, 180)
         Me.cmbStage.Name = "cmbStage"
         Me.cmbStage.Size = New System.Drawing.Size(204, 28)
         Me.cmbStage.TabIndex = 32
@@ -136,7 +136,7 @@ Partial Class Form1
         '
         Me.cmbGender.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.cmbGender.FormattingEnabled = True
-        Me.cmbGender.Location = New System.Drawing.Point(242, 146)
+        Me.cmbGender.Location = New System.Drawing.Point(243, 146)
         Me.cmbGender.Name = "cmbGender"
         Me.cmbGender.Size = New System.Drawing.Size(204, 28)
         Me.cmbGender.TabIndex = 31
@@ -145,7 +145,7 @@ Partial Class Form1
         '
         Me.cmbStroke.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.cmbStroke.FormattingEnabled = True
-        Me.cmbStroke.Location = New System.Drawing.Point(242, 112)
+        Me.cmbStroke.Location = New System.Drawing.Point(243, 112)
         Me.cmbStroke.Name = "cmbStroke"
         Me.cmbStroke.Size = New System.Drawing.Size(204, 28)
         Me.cmbStroke.TabIndex = 30
@@ -154,7 +154,7 @@ Partial Class Form1
         '
         Me.cmbDistance.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.cmbDistance.FormattingEnabled = True
-        Me.cmbDistance.Location = New System.Drawing.Point(242, 78)
+        Me.cmbDistance.Location = New System.Drawing.Point(243, 78)
         Me.cmbDistance.Name = "cmbDistance"
         Me.cmbDistance.Size = New System.Drawing.Size(204, 28)
         Me.cmbDistance.TabIndex = 29
@@ -163,7 +163,7 @@ Partial Class Form1
         '
         Me.cmbSwimmer.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.cmbSwimmer.FormattingEnabled = True
-        Me.cmbSwimmer.Location = New System.Drawing.Point(242, 44)
+        Me.cmbSwimmer.Location = New System.Drawing.Point(243, 44)
         Me.cmbSwimmer.Name = "cmbSwimmer"
         Me.cmbSwimmer.Size = New System.Drawing.Size(204, 28)
         Me.cmbSwimmer.TabIndex = 28
@@ -216,7 +216,7 @@ Partial Class Form1
         'txtPlace
         '
         Me.txtPlace.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtPlace.Location = New System.Drawing.Point(242, 249)
+        Me.txtPlace.Location = New System.Drawing.Point(243, 249)
         Me.txtPlace.Name = "txtPlace"
         Me.txtPlace.Size = New System.Drawing.Size(204, 29)
         Me.txtPlace.TabIndex = 22
@@ -224,7 +224,7 @@ Partial Class Form1
         'txtTime
         '
         Me.txtTime.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtTime.Location = New System.Drawing.Point(242, 214)
+        Me.txtTime.Location = New System.Drawing.Point(243, 214)
         Me.txtTime.Name = "txtTime"
         Me.txtTime.Size = New System.Drawing.Size(204, 29)
         Me.txtTime.TabIndex = 21
